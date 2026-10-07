@@ -1,0 +1,30 @@
+{
+  "version": "0.2.3",
+  "base_file_count": 259,
+  "new_file_count": 261,
+  "missing_base_files": 0,
+  "missing_examples": [],
+  "standard_html_pages": 201,
+  "identity_asset_refs": 201,
+  "natural_clearance_core_patches": 200,
+  "ios_identity_asset_ref": true,
+  "ios_natural_clearance_patch": true,
+  "icon_matches_user_file": true,
+  "pc_internal_links": 6164,
+  "pc_broken_links": 0,
+  "pc_broken_examples": [],
+  "ooc_hits": 0,
+  "ooc_examples": [],
+  "js_unique_blocks_checked": 14,
+  "js_syntax_errors": 0,
+  "js_syntax_error_examples": [],
+  "security_checks": {
+    "stores_passHash": true,
+    "no_profile_password_field": true,
+    "has_sha256": true,
+    "has_fallback_hash": true,
+    "has_credit_adjustment": true,
+    "override_default_off": true,
+    "thresholds_1_6_24h": true
+  }
+}

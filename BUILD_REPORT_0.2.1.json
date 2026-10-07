@@ -1,0 +1,21 @@
+{
+  "version": "0.2.1",
+  "base_file_count": 257,
+  "new_file_count": 257,
+  "missing_base_files": 0,
+  "chronology_nodes": 31,
+  "search_pages_patched": 200,
+  "ooc_hits": 0,
+  "pc_internal_links": 6144,
+  "pc_broken_links": 0,
+  "portable_routes": 200,
+  "portable_internal_links": 6143,
+  "portable_broken_links": 0,
+  "portable_chronology_search_records": 5,
+  "zip_bad_entry": null,
+  "zip_entries": 258,
+  "zip_size_bytes": 7597529,
+  "ooc_examples": [],
+  "pc_broken_examples": [],
+  "portable_broken_examples": []
+}

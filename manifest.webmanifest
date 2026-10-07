@@ -1,6 +1,6 @@
 {
-  "name": "显世公共机构索引 / GAMA Archive",
-  "short_name": "GAMA",
+  "name": "显世公共机构索引",
+  "short_name": "显世索引",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",

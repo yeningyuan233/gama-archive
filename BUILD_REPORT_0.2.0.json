@@ -1,0 +1,57 @@
+{
+  "source_file_count": 256,
+  "file_count": 256,
+  "organization_resolution_pages": 15,
+  "person_resolution_pages": 44,
+  "event_resolution_pages": 9,
+  "jop_resolution_pages": 10,
+  "world_resolution_pages": 2,
+  "yaxi_has_l0_resolution": false,
+  "yaxi_has_l1_resolution": false,
+  "yaxi_has_l2_resolution": true,
+  "gama_core_samples": {
+    "index.html": {
+      "drawer": true,
+      "search": true,
+      "L0_L3": true
+    },
+    "organizations/zero-point-office/index.html": {
+      "drawer": true,
+      "search": true,
+      "L0_L3": true
+    },
+    "people/chen-mu.html": {
+      "drawer": true,
+      "search": true,
+      "L0_L3": true
+    },
+    "events/evt-006.html": {
+      "drawer": true,
+      "search": true,
+      "L0_L3": true
+    },
+    "classified/deep-index.html": {
+      "drawer": true,
+      "search": true,
+      "L0_L3": true
+    }
+  },
+  "pc_local_links": 6096,
+  "broken_local_links": 0,
+  "broken_examples": [],
+  "portable_routes": 200,
+  "portable_broken_routes": 0,
+  "portable_broken_examples": [],
+  "ooc_forbidden_hits": 0,
+  "ooc_findings": [],
+  "missing_source_files": 0,
+  "missing_source_examples": [],
+  "zip_bad_entry": null,
+  "zip_entries": 257,
+  "zip_size_bytes": 7523684,
+  "yaxi_resolution_levels": [
+    "2",
+    "3"
+  ],
+  "yaxi_has_l3_resolution": true
+}
