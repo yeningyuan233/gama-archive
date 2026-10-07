@@ -1,0 +1,17 @@
+{
+  "name": "显世公共机构索引 / GAMA Archive",
+  "short_name": "GAMA",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0b1f33",
+  "theme_color": "#0b1f33",
+  "lang": "zh-CN",
+  "icons": [
+    {
+      "src": "apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
